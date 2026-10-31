@@ -1,0 +1,23 @@
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*\$py.class
+*.so
+
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Data and output files
+outputs/
+*.csv
+
+# macOS system files
+.DS_Store
+
+# IDE / Code Editor files
+.vscode/
+.idea/
+.cursor/
